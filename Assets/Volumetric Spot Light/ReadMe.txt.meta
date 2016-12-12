@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 1896ae462c44fcb4cbb904c769199722
+labels:
+- shader
+- volumetric
+- light
+- spot
+- spotlight
+- realtime
+TextScriptImporter:
+  userData: 
